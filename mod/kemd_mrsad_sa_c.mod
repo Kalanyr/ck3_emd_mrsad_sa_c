@@ -5,5 +5,5 @@ tags={
 }
 name="Extended Marriage Doctrines + MRSAD SA Compatch"
 picture="thumbnail.png"
-supported_version="1.11.*"
+supported_version="1.12.*"
 path="mod/kemd_mrsad_sa_c"
